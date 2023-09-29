@@ -1,0 +1,11 @@
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/gustavanderson/Downloads/xUnitTest/Calculator/obj/Debug/net7.0/ref/Calculator.dll
